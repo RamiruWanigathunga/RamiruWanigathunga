@@ -1,5 +1,4 @@
-# Hi there 👋 I am Ramiru Wanigathunga
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RamiruWanigathunga&color=brightgreen" alt="RamiruWanigathunga" /> </p>
+# Hi there 👋 I am Ramiru Wanigathunga <p align="left"> <img src="https://komarev.com/ghpvc/?username=RamiruWanigathunga&color=brightgreen" alt="RamiruWanigathunga" /></p>
 
 ## 💫 About Me
 🎓 CS major driven by **curiosity**<br>📖 Exploring everything from **philosophy** to **quantum computing**<br>🤝 Love sharing knowledge and learning together<br>🛠️ **Bee-boop**, making cool things for **computers**<br>✨ **Curious generalist** chasing **ideas** across domains<br>🚀 Combining **technical skill** with **imagination** to spark **innovation**
