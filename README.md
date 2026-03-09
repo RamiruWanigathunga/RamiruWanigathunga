@@ -1,3 +1,6 @@
+### Hi there 👋 I am Ramiru Wanigathunga
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RamiruWanigathunga&color=brightgreen" alt="RamiruWanigathunga" /> </p>
+
 # 💫 About Me:
 🎓 CS major driven by **curiosity**<br>📖 Exploring everything from **philosophy** to **quantum computing**<br>🤝 Love sharing knowledge and learning together<br>🛠️ **Bee-boop**, making cool things for **computers**<br>✨ **Curious generalist** chasing **ideas** across domains<br>🚀 Combining **technical skill** with **imagination** to spark **innovation**
 
@@ -8,5 +11,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ramiruwanigathunga&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiruwanigathunga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ramiruwanigathunga&icon=2&color=3)](https://visitcount.itsvg.in)
